@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    #container{
+        width:50%;
+        height: auto;
+        background-color: #eee;
+        margin: 0 auto;
+        border-radius: 15px;
+        display: flex;
+        padding-right:-30%; 
+        padding-left: 15%;
+        margin-top: 50px;
+    }
+    .container-inner{
+    display: flex;	
+    }
+    .align{
+        padding-left: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-right: 10px;
+        }
+    .toggle{
+        color:purple;
+    }
+    #p{
+        padding-left: 10px;
+        margin-left: 10px;
+        margin-top: 20px;
+        margin-right: 10px;
+        padding-bottom: 30px;
+        margin-bottom: 50px;
+    }
+    #stop-score{
+        padding-left: 10px;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-right: 10px;
+    }
